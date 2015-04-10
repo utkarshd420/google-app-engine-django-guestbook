@@ -1,0 +1,1 @@
+An adaptation of the Guestbook sample SDK that uses the Django web framework, and doubles as an easy starting point for your own Django applications on the Google App Engine.
